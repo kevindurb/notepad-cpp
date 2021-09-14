@@ -1,3 +1,4 @@
 *.o
 notepad
 .ccls-cache
+compile_commands.json
